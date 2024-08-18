@@ -1,4 +1,5 @@
-Video Teaser Generator
+**Video Teaser Generator**
+
 Overview
 The Video Teaser Generator is a Python-based tool that automates the process of creating a teaser from a video file. It extracts audio, transcribes the audio to text, summarizes the content, identifies key segments, and compiles these segments into a professional teaser video. The tool is available both as a standalone Python script and as a Flask-based web application. This tool is particularly useful for content creators, filmmakers, and marketers who need to quickly generate engaging preview content.
 Features
@@ -10,7 +11,7 @@ Features
 •	Web Interface: Allows users to upload a video, input details, and download the generated teaser through a simple web interface.
 Installation
 Requirements
-•	Python 3.6 or later
+•	Python 3.8 or later
 •	Flask for the web application framework
 •	ffmpeg (required for audio processing)
 •	Whisper for audio transcription
