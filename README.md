@@ -162,6 +162,11 @@ def index():
 ![image](https://github.com/user-attachments/assets/23e5eab5-b93f-43bf-8872-62ef6c9c5b0c)
 
 
+
+![video](https://github.com/user-attachments/assets/3e65818f-9984-4365-8b43-2fd8a85e51b3)
+
+
+
 •	Result Route:
 @app.route('/result')
 def result():
